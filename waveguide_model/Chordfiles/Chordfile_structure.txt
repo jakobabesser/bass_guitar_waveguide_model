@@ -1,0 +1,6 @@
+% maj
+% min
+% maj maj7
+% min maj7
+% maj min7
+% min min7

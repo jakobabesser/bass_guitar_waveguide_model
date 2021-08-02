@@ -1,0 +1,4 @@
+F maj no7 E 0.05
+G min no7 E 0.05
+A# maj no7 E 0.05
+F maj no7 E 0.05
